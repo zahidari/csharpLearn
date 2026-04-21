@@ -1,0 +1,15 @@
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/bin/Debug/net10.0/Awh
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/bin/Debug/net10.0/Awh.deps.json
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/bin/Debug/net10.0/Awh.runtimeconfig.json
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/bin/Debug/net10.0/Awh.dll
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/bin/Debug/net10.0/Awh.pdb
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/obj/Debug/net10.0/Awh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/obj/Debug/net10.0/Awh.AssemblyInfoInputs.cache
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/obj/Debug/net10.0/Awh.AssemblyInfo.cs
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/obj/Debug/net10.0/Awh.csproj.CoreCompileInputs.cache
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/obj/Debug/net10.0/Awh.sourcelink.json
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/obj/Debug/net10.0/Awh.dll
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/obj/Debug/net10.0/refint/Awh.dll
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/obj/Debug/net10.0/Awh.pdb
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/obj/Debug/net10.0/Awh.genruntimeconfig.cache
+/Users/zahidari/playground/csharp/mySolution/u1/Awh/obj/Debug/net10.0/ref/Awh.dll

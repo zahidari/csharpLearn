@@ -1,0 +1,15 @@
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/bin/Debug/net10.0/primeNums
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/bin/Debug/net10.0/primeNums.deps.json
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/bin/Debug/net10.0/primeNums.runtimeconfig.json
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/bin/Debug/net10.0/primeNums.dll
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/bin/Debug/net10.0/primeNums.pdb
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/obj/Debug/net10.0/primeNums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/obj/Debug/net10.0/primeNums.AssemblyInfoInputs.cache
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/obj/Debug/net10.0/primeNums.AssemblyInfo.cs
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/obj/Debug/net10.0/primeNums.csproj.CoreCompileInputs.cache
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/obj/Debug/net10.0/primeNums.sourcelink.json
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/obj/Debug/net10.0/primeNums.dll
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/obj/Debug/net10.0/refint/primeNums.dll
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/obj/Debug/net10.0/primeNums.pdb
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/obj/Debug/net10.0/primeNums.genruntimeconfig.cache
+/Users/zahidari/playground/csharp/mySolution/u1/primeNums/obj/Debug/net10.0/ref/primeNums.dll
