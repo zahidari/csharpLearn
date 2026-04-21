@@ -1,0 +1,14 @@
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/bin/Debug/net10.0/Agroisil
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/bin/Debug/net10.0/Agroisil.deps.json
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/bin/Debug/net10.0/Agroisil.runtimeconfig.json
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/bin/Debug/net10.0/Agroisil.dll
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/bin/Debug/net10.0/Agroisil.pdb
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/obj/Debug/net10.0/Agroisil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/obj/Debug/net10.0/Agroisil.AssemblyInfoInputs.cache
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/obj/Debug/net10.0/Agroisil.AssemblyInfo.cs
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/obj/Debug/net10.0/Agroisil.csproj.CoreCompileInputs.cache
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/obj/Debug/net10.0/Agroisil.dll
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/obj/Debug/net10.0/refint/Agroisil.dll
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/obj/Debug/net10.0/Agroisil.pdb
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/obj/Debug/net10.0/Agroisil.genruntimeconfig.cache
+/Users/zahidari/playground/csharp/mySolution/u1/Agroisil/obj/Debug/net10.0/ref/Agroisil.dll
