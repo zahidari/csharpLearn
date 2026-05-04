@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MathPowerCalc")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("u1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71c0b757f9cac9346d54f49807e274516626247b")]
-[assembly: System.Reflection.AssemblyProductAttribute("MathPowerCalc")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MathPowerCalc")]
+[assembly: System.Reflection.AssemblyProductAttribute("u1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("u1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

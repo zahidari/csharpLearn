@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Agroisil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71c0b757f9cac9346d54f49807e274516626247b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Agroisil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Agroisil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

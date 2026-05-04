@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zahidari/playground/csharp/mySolution/u1/Agr/Agroisil.csproj",
-      "projectName": "Agroisil",
-      "projectPath": "/Users/zahidari/playground/csharp/mySolution/u1/Agr/Agroisil.csproj",
+      "projectUniqueName": "/Users/zahidari/playground/csharp/mySolution/u2/u2.csproj",
+      "projectName": "u2",
+      "projectPath": "/Users/zahidari/playground/csharp/mySolution/u2/u2.csproj",
       "packagesPath": "/Users/zahidari/.nuget/packages/",
-      "outputPath": "/Users/zahidari/playground/csharp/mySolution/u1/Agr/obj/",
+      "outputPath": "/Users/zahidari/playground/csharp/mySolution/u2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zahidari/.nuget/NuGet/NuGet.Config"
